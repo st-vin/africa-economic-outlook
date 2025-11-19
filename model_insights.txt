@@ -1,0 +1,12 @@
+
+--- Model Performance and Interpretability Insights ---
+
+**Model Performance (Test Set 2016-2020):**
+- **Kenya** shows the best performance with the lowest RMSE and MAE, and a reasonable MAPE (17.23%). This suggests the model is a good fit for Kenya's relatively stable time series.
+- **South Africa** has a low RMSE/MAE, but a high MAPE (132.13%). This is a common issue when actual values (GDP growth) are close to zero, causing the percentage error to be inflated. The low absolute errors (MAE/RMSE) suggest the model is still useful.
+- **Nigeria** has the worst performance by far (RMSE: 6.55, MAE: 6.38, MAPE: 445.45%). This confirms the earlier EDA finding that Nigeria's GDP growth is highly volatile and difficult to predict with a simple Prophet model, especially during the 2016-2020 period which included a major recession. The high error suggests a more complex model (like LSTM or a model incorporating more structural breaks) would be necessary for Nigeria.
+
+**Feature Interpretability (Prophet Decomposition):**
+- The feature importance data, based on the average absolute effect on the forecast, will be used to understand the drivers of the forecast.
+- **Trend** and **Seasonality** (yearly) are the inherent components of the Prophet model.
+- The **Regressors** (Fiscal Balance, Current Account Balance, Inflation) represent the external macroeconomic factors. Their relative importance compared to the inherent components will provide insight into whether external factors or internal time dynamics are the primary drivers of the forecast.

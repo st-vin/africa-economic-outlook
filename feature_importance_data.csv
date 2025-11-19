@@ -1,0 +1,16 @@
+Country,Feature,Importance
+Kenya,Fiscal_Balance,0.4178840023136813
+Kenya,Current_Account_Balance,0.5999747686210065
+Kenya,Inflation,0.8816845069654257
+Kenya,Trend,3.302069922983398
+Kenya,Seasonality,6.607324612774207
+Nigeria,Fiscal_Balance,0.3562668945913704
+Nigeria,Current_Account_Balance,0.3362661577256655
+Nigeria,Inflation,0.0007853969238510916
+Nigeria,Trend,9.23278845896604
+Nigeria,Seasonality,1.791573856278978
+South Africa,Fiscal_Balance,0.347861023655944
+South Africa,Current_Account_Balance,0.11808584756360066
+South Africa,Inflation,1.0591687687605869
+South Africa,Trend,0.10242081821379319
+South Africa,Seasonality,1.7601732418099136
