@@ -1,0 +1,1346 @@
+{
+    "forecasts": {
+        "Kenya": [
+            {
+                "ds": "1982-01-01",
+                "y": 5.0523556004,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1983-01-01",
+                "y": 1.5930549409,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1984-01-01",
+                "y": 1.6001240776,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1985-01-01",
+                "y": 4.0728854279,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1986-01-01",
+                "y": 6.9821038937,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1987-01-01",
+                "y": 5.8106859736,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1988-01-01",
+                "y": 6.0908480085,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1989-01-01",
+                "y": 4.5542262134,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1990-01-01",
+                "y": 4.133687241,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1991-01-01",
+                "y": 1.3393001148,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1992-01-01",
+                "y": -1.080186747,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1993-01-01",
+                "y": -0.094759474,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1994-01-01",
+                "y": 2.5311821309,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1995-01-01",
+                "y": 4.2868716347,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1996-01-01",
+                "y": 4.0110310475,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1997-01-01",
+                "y": 0.2201195016,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1998-01-01",
+                "y": 3.3304624082,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "1999-01-01",
+                "y": 2.4069530327,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2000-01-01",
+                "y": 0.599251604,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2001-01-01",
+                "y": 4.4647031824,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2002-01-01",
+                "y": 0.54538372,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2003-01-01",
+                "y": 2.9322615926,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2004-01-01",
+                "y": 5.0883788513,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2005-01-01",
+                "y": 5.9,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2006-01-01",
+                "y": 6.7373881648,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2007-01-01",
+                "y": 6.8507297706,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2008-01-01",
+                "y": 0.2322827457,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2009-01-01",
+                "y": 3.3,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2010-01-01",
+                "y": 8.4,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2011-01-01",
+                "y": 6.1,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2012-01-01",
+                "y": 4.5,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2013-01-01",
+                "y": 5.9,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2014-01-01",
+                "y": 5.4,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2015-01-01",
+                "y": 5.7,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2016-01-01",
+                "y": 5.9,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2017-01-01",
+                "y": 4.9,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2018-01-01",
+                "y": 5.8803032663,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2019-01-01",
+                "y": 5.998787842,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2020-01-01",
+                "y": 6.0844716021,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2016-01-01",
+                "y": 4.825681749569959,
+                "type": "Forecast (Test)",
+                "yhat_lower": 2.4473960051854156,
+                "yhat_upper": 7.179231340605785,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2017-01-01",
+                "y": 5.991684316209083,
+                "type": "Forecast (Test)",
+                "yhat_lower": 3.59395916620363,
+                "yhat_upper": 8.160445935933405,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2018-01-01",
+                "y": 5.725673552648808,
+                "type": "Forecast (Test)",
+                "yhat_lower": 3.2547719753534854,
+                "yhat_upper": 8.012128297643882,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2019-01-01",
+                "y": 4.976241332090874,
+                "type": "Forecast (Test)",
+                "yhat_lower": 2.735223586161091,
+                "yhat_upper": 7.356014879719488,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2020-01-01",
+                "y": 4.504708887935892,
+                "type": "Forecast (Test)",
+                "yhat_lower": 2.193960427929532,
+                "yhat_upper": 6.682177274494424,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2021-01-01",
+                "y": 5.467995477289579,
+                "type": "Forecast (Future)",
+                "yhat_lower": 3.150149824004346,
+                "yhat_upper": 7.8140706901344945,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2022-01-01",
+                "y": 5.179312739217309,
+                "type": "Forecast (Future)",
+                "yhat_lower": 2.927325448510963,
+                "yhat_upper": 7.522437245143385,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2023-01-01",
+                "y": 4.830656845538497,
+                "type": "Forecast (Future)",
+                "yhat_lower": 2.4892534594377893,
+                "yhat_upper": 7.252457168208577,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2024-01-01",
+                "y": 4.4224301611087675,
+                "type": "Forecast (Future)",
+                "yhat_lower": 1.9652600878380493,
+                "yhat_upper": 6.741491856251292,
+                "Country": "Kenya"
+            },
+            {
+                "ds": "2025-01-01",
+                "y": 5.385716750459457,
+                "type": "Forecast (Future)",
+                "yhat_lower": 3.1446899361842764,
+                "yhat_upper": 7.876785232531493,
+                "Country": "Kenya"
+            }
+        ],
+        "Nigeria": [
+            {
+                "ds": "1982-01-01",
+                "y": -1.0531883983,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1983-01-01",
+                "y": -5.0504502302,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1984-01-01",
+                "y": -2.0215359103,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1985-01-01",
+                "y": 8.3228258598,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1986-01-01",
+                "y": -8.7541765507,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1987-01-01",
+                "y": -10.7516975998,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1988-01-01",
+                "y": 7.5425182716,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1989-01-01",
+                "y": 6.4671916212,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1990-01-01",
+                "y": 12.7660088565,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1991-01-01",
+                "y": -0.6178494436,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1992-01-01",
+                "y": 0.433726281,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1993-01-01",
+                "y": 2.0903783447,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1994-01-01",
+                "y": 0.9097607773,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1995-01-01",
+                "y": -0.3074662793,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1996-01-01",
+                "y": 4.993705316,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1997-01-01",
+                "y": 2.8022565547,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1998-01-01",
+                "y": 2.7156392491,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "1999-01-01",
+                "y": 0.4742379374,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2000-01-01",
+                "y": 5.3180920267,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2001-01-01",
+                "y": 8.1643105479,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2002-01-01",
+                "y": 21.1771178879,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2003-01-01",
+                "y": 10.3354737672,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2004-01-01",
+                "y": 10.5850162509,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2005-01-01",
+                "y": 6.5119281084,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2006-01-01",
+                "y": 6.0310229011,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2007-01-01",
+                "y": 6.4498316504,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2008-01-01",
+                "y": 5.9836635883,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2009-01-01",
+                "y": 6.9344168804,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2010-01-01",
+                "y": 10.6,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2011-01-01",
+                "y": 4.88738659,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2012-01-01",
+                "y": 4.279277261,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2013-01-01",
+                "y": 5.3944163074,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2014-01-01",
+                "y": 6.3097186627,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2015-01-01",
+                "y": 2.6526932888,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2016-01-01",
+                "y": -1.5830654925,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2017-01-01",
+                "y": 0.824,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2018-01-01",
+                "y": 1.9427225265,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2019-01-01",
+                "y": 2.3401126945,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2020-01-01",
+                "y": 2.4454969702,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2016-01-01",
+                "y": 5.725592587112389,
+                "type": "Forecast (Test)",
+                "yhat_lower": -0.7539942816414176,
+                "yhat_upper": 11.84144740999972,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2017-01-01",
+                "y": 9.270172122188924,
+                "type": "Forecast (Test)",
+                "yhat_lower": 2.5651989949534797,
+                "yhat_upper": 15.206076941116622,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2018-01-01",
+                "y": 8.605759727936265,
+                "type": "Forecast (Test)",
+                "yhat_lower": 2.2627248838081973,
+                "yhat_upper": 15.200940229862944,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2019-01-01",
+                "y": 7.609632788082852,
+                "type": "Forecast (Test)",
+                "yhat_lower": 1.4815336199435074,
+                "yhat_upper": 14.060831787389644,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2020-01-01",
+                "y": 6.660961675011689,
+                "type": "Forecast (Test)",
+                "yhat_lower": 0.07734565035543514,
+                "yhat_upper": 13.081393890117022,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2021-01-01",
+                "y": 9.110746068542895,
+                "type": "Forecast (Future)",
+                "yhat_lower": 3.0225017969164165,
+                "yhat_upper": 15.475002948067957,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2022-01-01",
+                "y": 8.140582022721869,
+                "type": "Forecast (Future)",
+                "yhat_lower": 1.8661239068076876,
+                "yhat_upper": 13.974757096644725,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2023-01-01",
+                "y": 7.21864347552979,
+                "type": "Forecast (Future)",
+                "yhat_lower": 0.4383771116850439,
+                "yhat_upper": 13.503539952441905,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2024-01-01",
+                "y": 6.346306469533451,
+                "type": "Forecast (Future)",
+                "yhat_lower": -0.12060756845678006,
+                "yhat_upper": 12.329747821998254,
+                "Country": "Nigeria"
+            },
+            {
+                "ds": "2025-01-01",
+                "y": 9.876464964922324,
+                "type": "Forecast (Future)",
+                "yhat_lower": 3.5151217211099874,
+                "yhat_upper": 16.057939643420937,
+                "Country": "Nigeria"
+            }
+        ],
+        "South Africa": [
+            {
+                "ds": "1982-01-01",
+                "y": -0.383353977,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1983-01-01",
+                "y": -1.8465489606,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1984-01-01",
+                "y": 5.0990754891,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1985-01-01",
+                "y": -1.2114403722,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1986-01-01",
+                "y": 0.0177868911,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1987-01-01",
+                "y": 2.1007777883,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1988-01-01",
+                "y": 4.2000426639,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1989-01-01",
+                "y": 2.3948598131,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1990-01-01",
+                "y": -0.3177832031,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1991-01-01",
+                "y": -1.0183080152,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1992-01-01",
+                "y": -2.1370417156,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1993-01-01",
+                "y": 1.2336134007,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1994-01-01",
+                "y": 3.2340992466,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1995-01-01",
+                "y": 3.1156957193,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1996-01-01",
+                "y": 4.3066962106,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1997-01-01",
+                "y": 2.6467643194,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1998-01-01",
+                "y": 0.517382743,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "1999-01-01",
+                "y": 2.3581285988,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2000-01-01",
+                "y": 4.1545885216,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2001-01-01",
+                "y": 2.7354231498,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2002-01-01",
+                "y": 3.6678376111,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2003-01-01",
+                "y": 2.9490744247,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2004-01-01",
+                "y": 4.5545434037,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2005-01-01",
+                "y": 5.2770921799,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2006-01-01",
+                "y": 5.6037661275,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2007-01-01",
+                "y": 5.3604651396,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2008-01-01",
+                "y": 3.1910516451,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2009-01-01",
+                "y": -1.5381008639,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2010-01-01",
+                "y": 3.0397770628,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2011-01-01",
+                "y": 3.2841668017,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2012-01-01",
+                "y": 2.2133536521,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2013-01-01",
+                "y": 2.485185837,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2014-01-01",
+                "y": 1.8470084388,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2015-01-01",
+                "y": 1.2795382582,
+                "type": "Historical (Train)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2016-01-01",
+                "y": 0.5653629365,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2017-01-01",
+                "y": 1.2615851301,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2018-01-01",
+                "y": 0.6963713115,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2019-01-01",
+                "y": 1.7075967014,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2020-01-01",
+                "y": 1.9846617353,
+                "type": "Historical (Test)",
+                "yhat_lower": NaN,
+                "yhat_upper": NaN,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2016-01-01",
+                "y": 2.6420072158923835,
+                "type": "Forecast (Test)",
+                "yhat_lower": 0.4975199309974033,
+                "yhat_upper": 4.671873911313768,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2017-01-01",
+                "y": 1.607471311771128,
+                "type": "Forecast (Test)",
+                "yhat_lower": -0.34296898600302383,
+                "yhat_upper": 3.52699128512849,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2018-01-01",
+                "y": 2.082732551169702,
+                "type": "Forecast (Test)",
+                "yhat_lower": 0.16061217201659816,
+                "yhat_upper": 4.218100031814549,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2019-01-01",
+                "y": 2.298962543562792,
+                "type": "Forecast (Test)",
+                "yhat_lower": 0.36633839327120343,
+                "yhat_upper": 4.391282899582687,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2020-01-01",
+                "y": 2.623697983289808,
+                "type": "Forecast (Test)",
+                "yhat_lower": 0.5811317561011854,
+                "yhat_upper": 4.634632718416828,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2021-01-01",
+                "y": 0.8686836354413566,
+                "type": "Forecast (Future)",
+                "yhat_lower": -1.1832983374768833,
+                "yhat_upper": 2.7499183085727923,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2022-01-01",
+                "y": 1.283344804267386,
+                "type": "Forecast (Future)",
+                "yhat_lower": -0.740498200237199,
+                "yhat_upper": 3.3790331247954373,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2023-01-01",
+                "y": 1.7194744595315758,
+                "type": "Forecast (Future)",
+                "yhat_lower": -0.2610204557029772,
+                "yhat_upper": 3.875017084542466,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2024-01-01",
+                "y": 2.17650099056013,
+                "type": "Forecast (Future)",
+                "yhat_lower": 0.10206577221759064,
+                "yhat_upper": 4.471330282962851,
+                "Country": "South Africa"
+            },
+            {
+                "ds": "2025-01-01",
+                "y": 0.7299326492659626,
+                "type": "Forecast (Future)",
+                "yhat_lower": -1.3309090334873424,
+                "yhat_upper": 2.7238188273871,
+                "Country": "South Africa"
+            }
+        ]
+    },
+    "metrics": {
+        "Kenya": {
+            "RMSE": 1.0872990661081512,
+            "MAE": 0.98458830087271,
+            "MAPE": 17.225481322139093
+        },
+        "Nigeria": {
+            "RMSE": 6.5526842726356795,
+            "MAE": 6.380570440326425,
+            "MAPE": 445.44631634652154
+        },
+        "South Africa": {
+            "RMSE": 1.1926581309146773,
+            "MAE": 1.0078587581771628,
+            "MAPE": 132.12846940736117
+        }
+    },
+    "components": {
+        "Kenya": [
+            {
+                "ds": "2016-01-01",
+                "trend": -3.260913664552214,
+                "yearly": 6.189856420061162,
+                "Fiscal_Balance": 0.5697279687164148,
+                "Current_Account_Balance": 0.49554650625955887,
+                "Inflation": 0.8314645190850369,
+                "Regressors_Effect": 1.8967389940610107
+            },
+            {
+                "ds": "2017-01-01",
+                "trend": -3.281525583799358,
+                "yearly": 7.1737549286618645,
+                "Fiscal_Balance": 0.6915267047829953,
+                "Current_Account_Balance": 0.8523576801627046,
+                "Inflation": 0.5555705864008763,
+                "Regressors_Effect": 2.099454971346576
+            },
+            {
+                "ds": "2018-01-01",
+                "trend": -3.302081186327249,
+                "yearly": 6.9056277931196455,
+                "Fiscal_Balance": 0.4051614652718723,
+                "Current_Account_Balance": 0.638058765030072,
+                "Inflation": 1.0789067155544665,
+                "Regressors_Effect": 2.1221269458564107
+            },
+            {
+                "ds": "2019-01-01",
+                "trend": -3.322636788855139,
+                "yearly": 6.577527501967635,
+                "Fiscal_Balance": 0.2663140540096623,
+                "Current_Account_Balance": 0.49417296348448536,
+                "Inflation": 0.9608636014842286,
+                "Regressors_Effect": 1.7213506189783763
+            },
+            {
+                "ds": "2020-01-01",
+                "trend": -3.3431923913830293,
+                "yearly": 6.189856420060727,
+                "Fiscal_Balance": 0.15668981878746158,
+                "Current_Account_Balance": 0.5197379281682112,
+                "Inflation": 0.9816171123025202,
+                "Regressors_Effect": 1.658044859258193
+            }
+        ],
+        "Nigeria": [
+            {
+                "ds": "2016-01-01",
+                "trend": 8.849771778972654,
+                "yearly": -2.953347413863131,
+                "Fiscal_Balance": -0.28076623182560895,
+                "Current_Account_Balance": 0.11046003362156744,
+                "Inflation": -0.0005255797930928305,
+                "Regressors_Effect": -0.17083177799713437
+            },
+            {
+                "ds": "2017-01-01",
+                "trend": 9.041594582581821,
+                "yearly": 0.38498827792229395,
+                "Fiscal_Balance": -0.4982483697457913,
+                "Current_Account_Balance": 0.3422599010242819,
+                "Inflation": -0.00042226959368137285,
+                "Regressors_Effect": -0.15641073831519078
+            },
+            {
+                "ds": "2018-01-01",
+                "trend": 9.232893280170199,
+                "yearly": -0.7764744654800653,
+                "Fiscal_Balance": -0.30666134809273243,
+                "Current_Account_Balance": 0.4569922875013105,
+                "Inflation": -0.0009900261624458072,
+                "Regressors_Effect": 0.14934091324613225
+            },
+            {
+                "ds": "2019-01-01",
+                "trend": 9.424191977758575,
+                "yearly": -1.8897117102653591,
+                "Fiscal_Balance": -0.3344134563744873,
+                "Current_Account_Balance": 0.41051299147814324,
+                "Inflation": -0.0009470145140195246,
+                "Regressors_Effect": 0.07515252058963644
+            },
+            {
+                "ds": "2020-01-01",
+                "trend": 9.615490675346953,
+                "yearly": -2.9533474138640403,
+                "Fiscal_Balance": -0.361245066918232,
+                "Current_Account_Balance": 0.36110557500302426,
+                "Inflation": -0.001042094556015923,
+                "Regressors_Effect": -0.0011815864712236574
+            }
+        ],
+        "South Africa": [
+            {
+                "ds": "2016-01-01",
+                "trend": -0.03301683416465861,
+                "yearly": 2.3333700611914368,
+                "Fiscal_Balance": -0.2913058315904932,
+                "Current_Account_Balance": -0.10496937999443226,
+                "Inflation": 0.7379292004505309,
+                "Regressors_Effect": 0.3416539888656054
+            },
+            {
+                "ds": "2017-01-01",
+                "trend": -0.0677758081137324,
+                "yearly": 0.9215606938432067,
+                "Fiscal_Balance": -0.2953085524180788,
+                "Current_Account_Balance": -0.0801757479108744,
+                "Inflation": 1.1291707263706068,
+                "Regressors_Effect": 0.7536864260416536
+            },
+            {
+                "ds": "2018-01-01",
+                "trend": -0.10243981218862878,
+                "yearly": 1.3708858667410766,
+                "Fiscal_Balance": -0.30907644355476405,
+                "Current_Account_Balance": -0.12828801632775116,
+                "Inflation": 1.2516509564997695,
+                "Regressors_Effect": 0.8142864966172543
+            },
+            {
+                "ds": "2019-01-01",
+                "trend": -0.137103816263525,
+                "yearly": 1.8416795260819394,
+                "Fiscal_Balance": -0.3934053416742554,
+                "Current_Account_Balance": -0.12874099718410223,
+                "Inflation": 1.1165331726027354,
+                "Regressors_Effect": 0.5943868337443778
+            },
+            {
+                "ds": "2020-01-01",
+                "trend": -0.17176782033842108,
+                "yearly": 2.3333700611919084,
+                "Fiscal_Balance": -0.4502089490421285,
+                "Current_Account_Balance": -0.14825509640084325,
+                "Inflation": 1.060559787879292,
+                "Regressors_Effect": 0.46209574243632034
+            }
+        ]
+    }
+}
