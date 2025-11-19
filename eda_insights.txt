@@ -1,0 +1,23 @@
+
+--- Textual Insights from EDA ---
+
+**Summary Statistics:**
+- **Nigeria** has the highest average GDP growth, but also the highest standard deviation, indicating more volatility.
+- **South Africa** has the lowest average GDP growth and the lowest maximum growth, suggesting a more mature and slower-growing economy in this period.
+- **Kenya** shows moderate growth and volatility, positioned between Nigeria and South Africa.
+
+**Year-over-Year Change:**
+- The mean year-over-year change is close to zero for all countries, as expected for a long time series.
+- **Nigeria** again shows the highest volatility in YoY change (highest standard deviation), reflecting sharp economic swings.
+
+**Visual Trends (Historical GDP Growth):**
+- **Nigeria's** growth is characterized by significant peaks and troughs, with a notable period of high growth in the early 2000s, followed by a sharp decline after 2014 (likely due to oil price shocks).
+- **South Africa's** growth is consistently lower and less volatile, with a clear dip around the 2008-2009 global financial crisis and a prolonged period of stagnation/low growth afterward.
+- **Kenya's** growth is relatively stable, with a steady upward trend in the 2000s, though it also experienced a slowdown post-2008.
+
+**Outliers/Anomalies (Box Plot):**
+- **Nigeria** has the most pronounced outliers, with both extremely high and low growth rates, confirming its high volatility.
+- **South Africa** and **Kenya** have fewer extreme outliers, with their growth rates generally clustered closer to the mean.
+
+**Conclusion for Modeling:**
+The distinct volatility and trend characteristics for each country suggest that a separate model for each country is the correct approach, as planned. The high volatility in Nigeria's series might make forecasting more challenging.
